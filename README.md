@@ -13,7 +13,7 @@ This project predicts the price of a house based on 13 features using Linear Reg
 
 ## 📦 How to Run
 1. Clone the repo
-2. Install requirements:
+2. Install requirements: pip install -r requirements.txt
 3. Open `house_price_prediction.ipynb` in Jupyter or Google Colab
 
 ## 📊 Example Prediction
